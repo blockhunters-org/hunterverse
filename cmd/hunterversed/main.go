@@ -14,7 +14,7 @@ func main() {
 		"hunterverse",
 		"cosmos",
 		app.DefaultNodeHome,
-		"hunterverse",
+		"hunterverse-1",
 		app.ModuleBasics,
 		app.New,
 		// this line is used by starport scaffolding # root/arguments
